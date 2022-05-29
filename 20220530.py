@@ -1,1 +1,2 @@
-print('hello seoul high school world')
+while True :
+  print('hello seoul high school world')
